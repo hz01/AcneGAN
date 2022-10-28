@@ -6,7 +6,7 @@ As a result, this work allows the scientific community to employ the generated s
 
 
 
-## Dataset used for training First StyleGAN2 Model
+## Dataset used for training StyleGAN2 model with all levels of acne severity
 https://mega.nz/file/DlAREKZa#AZpAIG3loCZVSONKVSYqc9JROcw21cMLiuBvfHrSY4I
 
 ## Mild Acne StyleGAN2 Model
