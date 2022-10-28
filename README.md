@@ -6,13 +6,13 @@ As a result, this work allows the scientific community to employ the generated s
 
 
 
-### Dataset used for training First StyleGAN2 Model
+## Dataset used for training First StyleGAN2 Model
 https://mega.nz/file/DlAREKZa#AZpAIG3loCZVSONKVSYqc9JROcw21cMLiuBvfHrSY4I
 
-### Mild Acne StyleGAN2 Model
+## Mild Acne StyleGAN2 Model
 https://mega.nz/file/Dg53WS4A#e28CDkZ6vIbafBglHkSx34BNtq9_NEAYZG3IbjXXe-c
 
-### Moderate Acne StyleGAN2 Model
+## Moderate Acne StyleGAN2 Model
 https://mega.nz/file/igRkELwC#-k4cmu0nJ5AaV0sAPTxlhjLvej8LB7t6-ARIs371Zxs
 
 ## Severe Acne StyleGAN2 Model
