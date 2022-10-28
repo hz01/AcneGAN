@@ -9,6 +9,9 @@ As a result, this work allows the scientific community to employ the generated s
 ## Dataset used for training StyleGAN2 model with all levels of acne severity
 https://mega.nz/file/DlAREKZa#AZpAIG3loCZVSONKVSYqc9JROcw21cMLiuBvfHrSY4I
 
+## StyleGAN2
+https://github.com/NVlabs/stylegan2
+
 ## Mild Acne StyleGAN2 Model
 https://mega.nz/file/Dg53WS4A#e28CDkZ6vIbafBglHkSx34BNtq9_NEAYZG3IbjXXe-c
 
