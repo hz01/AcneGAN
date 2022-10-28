@@ -17,3 +17,9 @@ https://mega.nz/file/igRkELwC#-k4cmu0nJ5AaV0sAPTxlhjLvej8LB7t6-ARIs371Zxs
 
 ## Severe Acne StyleGAN2 Model
 https://mega.nz/file/TkIQFRZK#XA1LjypcKrSgoHoF-igTel3rafNpo2isg6k-tuVYkw8
+
+## Dataset used in training CNN Models
+https://mega.nz/file/G45xBTKb#BQZjqomqE69UlHBHIrHg1BPhgrBS2tYC4lD8CzoA0-U
+
+## PyQT5 AcneGAN GUI
+https://mega.nz/file/e8xEmZxQ#rbkt1cPqiBvLYdcEHbLnPvr-tAHsEO7QYwYdyCYJXGE
