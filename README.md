@@ -26,3 +26,8 @@ https://mega.nz/file/G45xBTKb#BQZjqomqE69UlHBHIrHg1BPhgrBS2tYC4lD8CzoA0-U
 
 ## PyQT5 AcneGAN GUI
 https://mega.nz/file/e8xEmZxQ#rbkt1cPqiBvLYdcEHbLnPvr-tAHsEO7QYwYdyCYJXGE
+
+# Citation
+If you use or extend our work, please cite the following paper:
+
+
