@@ -8,7 +8,7 @@ It is well known that the performance of any classification model is effective i
 
 ## StyleGAN2 saved models
 - [StyleGAN2 Acne Models - Tensorflow (Legacy)](https://mega.nz/folder/T0BxULpL#o9fP0npSwpWM-RD6qkFiWg)
-- [## StyleGAN2 Acne Models - PyTorch](https://mega.nz/folder/DoJHSYQL#Lm_tJY5huMu_MFJrieqBmg)
+- [StyleGAN2 Acne Models - PyTorch](https://mega.nz/folder/DoJHSYQL#Lm_tJY5huMu_MFJrieqBmg)
 
 # GUI
 - [PyQT5 AcneGAN GUI - Tensorflow](https://mega.nz/file/e8xEmZxQ#rbkt1cPqiBvLYdcEHbLnPvr-tAHsEO7QYwYdyCYJXGE)
