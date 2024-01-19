@@ -24,12 +24,6 @@ https://mega.nz/file/e8xEmZxQ#rbkt1cPqiBvLYdcEHbLnPvr-tAHsEO7QYwYdyCYJXGE
 ## Citation
 If you use or extend our work, please cite the following paper:
 ```
-@inproceedings{,
-  title     = {},
-  author    = {},
-  booktitle = {},
-  year      = {}
-}
 ```
 
 
