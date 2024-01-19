@@ -14,7 +14,7 @@ It is well known that the performance of any classification model is effective i
 - [PyQT5 AcneGAN GUI - Tensorflow](https://figshare.com/articles/software/PyQT5_AcneGAN_GUI_-_Tensorflow/25033943)
 
 ## Citation
-If you use or extend our work, please cite the following paper:
+If you use this code for your research, please cite our paper [Generative adversarial networks for anonymous  acneic face dataset generation]()
 ```
 ```
 
