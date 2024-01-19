@@ -11,7 +11,7 @@ It is well known that the performance of any classification model is effective i
 - [StyleGAN2 Acne Models - PyTorch](https://mega.nz/folder/DoJHSYQL#Lm_tJY5huMu_MFJrieqBmg)
 
 ## Other
-- [PyQT5 AcneGAN GUI - Tensorflow](https://mega.nz/file/e8xEmZxQ#rbkt1cPqiBvLYdcEHbLnPvr-tAHsEO7QYwYdyCYJXGE)
+- [PyQT5 AcneGAN GUI - Tensorflow](https://figshare.com/articles/software/PyQT5_AcneGAN_GUI_-_Tensorflow/25033943)
 
 ## Citation
 If you use or extend our work, please cite the following paper:
