@@ -9,7 +9,7 @@ from tqdm import tqdm
 from skimage.transform import resize
 from keras.models import load_model
 
-MODEL_NAME = "VGG16"
+MODEL_NAME = "InceptionResNetV2"
 OPTIMIZER = "ADAM"
 json1 = open("Results/"+MODEL_NAME+"/"+OPTIMIZER+"/class_mapping.json", "r")
 class_mapping_json = json.load(json1)
@@ -63,3 +63,9 @@ def ConfusionMatrix(y_true, y_pred):
 LOADED_MODEL = LoadModel(MODEL_NAME, OPTIMIZER)
 arr_true, arr_pred = ClassifyClassesFolder(LOADED_MODEL, "data1", CLASS_MAPPING)
 ConfusionMatrix(arr_true, arr_pred)
+
+
+
+
+
+
