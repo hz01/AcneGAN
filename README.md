@@ -6,7 +6,7 @@ It is well known that the performance of any classification model is effective i
 - [Dataset used for training StyleGAN2 model with all levels of acne severity](https://figshare.com/articles/dataset/StyleGAN2_Acne_Dataset/25033925)
 - [Dataset used in training CNN Models](https://figshare.com/articles/dataset/StyleGAN2_Generated_Dataset_for_CNN_training/25033928)
 
-## StyleGAN2 Tained Models Weights
+## StyleGAN2 Trained Models Weights
 - [StyleGAN2 Acne Models - Tensorflow (Legacy)](https://figshare.com/articles/software/StyleGAN2_Acne_Models_-_Tensorflow_Legacy_/25033946)
 - [StyleGAN2 Acne Models - PyTorch](https://figshare.com/articles/software/StyleGAN2_Acne_Models_-_PyTorch/25033955)
 
