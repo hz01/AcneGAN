@@ -14,8 +14,9 @@ It is well known that the performance of any classification model is effective i
 - [PyQT5 AcneGAN GUI - Tensorflow](https://figshare.com/articles/software/PyQT5_AcneGAN_GUI_-_Tensorflow/25033943)
 
 ## Citation
-If you use this code for your research, please cite our paper [Generative adversarial networks for anonymous  acneic face dataset generation]()
+If you use this code for your research, please cite our paper [Generative adversarial networks for anonymous  acneic face dataset generation](https://doi.org/10.1371/journal.pone.0297958)
 ```
+Zein H, Chantaf S, Fournier R, Nait-Ali A (2024) Generative adversarial networks for anonymous acneic face dataset generation. PLoS ONE 19(4): e0297958. https://doi.org/10.1371/journal.pone.0297958
 ```
 
 
