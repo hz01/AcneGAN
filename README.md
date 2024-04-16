@@ -16,7 +16,18 @@ It is well known that the performance of any classification model is effective i
 ## Citation
 If you use this code for your research, please cite our paper [Generative adversarial networks for anonymous  acneic face dataset generation](https://doi.org/10.1371/journal.pone.0297958)
 ```
-Zein H, Chantaf S, Fournier R, Nait-Ali A (2024) Generative adversarial networks for anonymous acneic face dataset generation. PLoS ONE 19(4): e0297958. https://doi.org/10.1371/journal.pone.0297958
+@article{10.1371/journal.pone.0297958,
+    doi = {10.1371/journal.pone.0297958},
+    author = {Zein, Hazem AND Chantaf, Samer AND Fournier, Régis AND Nait-Ali, Amine},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Generative adversarial networks for anonymous acneic face dataset generation},
+    year = {2024},
+    month = {04},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0297958},
+    pages = {1-15},
+}
 ```
 
 
