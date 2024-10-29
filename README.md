@@ -11,7 +11,8 @@ It is well known that the performance of any classification model is effective i
 - [StyleGAN2 Acne Models - PyTorch](https://figshare.com/articles/software/StyleGAN2_Acne_Models_-_PyTorch/25033955)
 
 ## PyQT5 GUI
-- [PyQT5 AcneGAN GUI - Tensorflow](https://figshare.com/articles/software/PyQT5_AcneGAN_GUI_-_Tensorflow/25033943)
+- [PyQT5 AcneGAN GUI - Tensorflow (Legacy)](https://figshare.com/articles/software/PyQT5_AcneGAN_GUI_-_Tensorflow/25033943)
+- [PyQT5 AcneGAN GUI - Pytorch](https://figshare.com/articles/software/PyQT5_AcneGAN_GUI_-_Pytorch/27324408)
 
 ## Citation
 If you use this code for your research, please cite our paper [Generative adversarial networks for anonymous  acneic face dataset generation](https://doi.org/10.1371/journal.pone.0297958)
